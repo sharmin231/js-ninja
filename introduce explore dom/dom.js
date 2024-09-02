@@ -1,0 +1,1 @@
+// DOM- Document Object Model. javascript er code ke  browser e show koranor ekta middle way. dom javascript er kono part na browser er ekta part.
